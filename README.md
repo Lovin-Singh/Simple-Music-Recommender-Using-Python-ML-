@@ -1,4 +1,4 @@
-#Simple Music Recommender using-Python (scikit-learn - Machine Learning)
+Simple Music Recommender using-Python (scikit-learn - Machine Learning)
 
 Objective: Analyzed data using Python and scikit-learn for insights.
 
